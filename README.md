@@ -14,11 +14,6 @@ This GitHub repository hosts the source code for an automated diagnosis system i
 ## Dataset
 The training dataset comprises thousands of labeled images of diabetic retinopathy, sourced from reputable medical databases. Each image has undergone thorough pre-processing and augmentation to enhance the model's learning efficacy.
 
-## Usage
-1. **Setup**: Instructions for setting up the necessary environment, including GPU configuration and dependency installation.
-2. **Training**: Guidelines on how to train the model with your dataset, including parameter tuning.
-3. **Diagnosis**: Steps to run the model on new images to predict diabetic retinopathy.
-
 ## Contribution
 Contributions are welcome! Whether it's improving the accuracy of the model, enhancing the user interface, or expanding the dataset, your input can help make this tool more robust and widely applicable.
 
